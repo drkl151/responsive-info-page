@@ -1,4 +1,4 @@
-# [Preview]()
+# [Preview](https://drkl151.github.io/responsive-info-page/responsive-info-page.html)
 
 ## Responsive-info-page
 ![preview-img](preview-img.jpg)
