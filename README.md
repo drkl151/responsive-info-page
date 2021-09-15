@@ -1,0 +1,1 @@
+# responsive-info-page
