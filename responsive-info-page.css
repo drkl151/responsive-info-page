@@ -253,7 +253,6 @@ p {
 
 .triangle_blue {
     position: relative;
-    bottom: 70px;
     right: 20px;
     border: 60px solid transparent;
     border-bottom: 90px solid #29C2E1;
@@ -262,7 +261,6 @@ p {
 
 .triangle_orange {
     position: relative;
-    bottom: 70px;
     right: 50px;
     border: 70px solid transparent;
     border-bottom: 120px solid #F69B37;
